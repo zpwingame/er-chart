@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@antv/x6": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "main": "index.ts"
+}
